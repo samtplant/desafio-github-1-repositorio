@@ -44,4 +44,4 @@ o nome do docs ira aparecer
 
 Agora digitando **git commit -m "" entre aspas vai a mesagem é referente sobre oque vc editou a pagina clica em enter
 
-digita **git status** e após **git push otigin main**
+digita **git status** e após **git push otigin main** que será adicionado na nuvem 
